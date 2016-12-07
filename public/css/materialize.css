@@ -2,7 +2,14 @@
  * Materialize v0.97.8 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
  */
+
+ body {
+  background-image: url("../images/white-flowers-hd-wallpapers-9-cool-wallpaper.jpg");
+  background-repeat: no-repeat;
+}
 .materialize-red {
   background-color: #e51c23 !important;
 }

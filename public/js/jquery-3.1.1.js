@@ -3850,7 +3850,7 @@ jQuery.Deferred.exceptionHook = function( error, stack ) {
 
 
 
-jQuery.readyException = function( error ) {
+jQuery.readyException = function(error) {
 	window.setTimeout( function() {
 		throw error;
 	} );
